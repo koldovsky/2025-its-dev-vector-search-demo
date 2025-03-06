@@ -1,0 +1,16 @@
+{
+  "name": "2025-its-dev-vector-search-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --env-file=.env search.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/openai": "^0.4.4",
+    "langchain": "^0.3.19"
+  }
+}
